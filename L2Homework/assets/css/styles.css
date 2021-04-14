@@ -1,0 +1,52 @@
+<!--
+body {
+  display: fixed;
+  background-image: url('/L2Homework/images/sea.jpg');
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: 100%;
+  background-position: center;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #e74c3c;
+}
+
+li {
+  list-style-type: disc;
+}
+
+img {
+  width: 400px;
+  height: 250px;
+  
+}
+
+#thirdDiv {
+  display: block;
+  margin: auto;
+  height: 500px;
+  width: 500px;
+  background-color: #34495e;
+  padding: 50px;
+  border-color: #ecf0f1;
+  border-style: solid;
+  border-width:3px; 
+  box-shadow: 0 10px 40px -10px rgba(0,64,128,.2);
+  border-radius: var(--border-radius-outer);
+  margin-top:10px;
+  flex-direction:column;
+}
+
+
+
+#spanId {
+  font-size: 35px;
+  margin:50px;
+}
+
+a {
+  color: #e74c3c;
+}
+
+
+-->
